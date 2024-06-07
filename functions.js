@@ -8,10 +8,17 @@ const namew = function (num2){
 namew(3)
 
 
+const AddNumbers = function (n){
+    return 
+}
+
+AddNumbers(n)
+
  
 function Name(num){
     return num + 2;
 } 
+
 
 //arrow functions
 
